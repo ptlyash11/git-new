@@ -11,7 +11,6 @@ const app = express();
 app.get('/', (req, res) => {
 HEAD
   res.send('CPSY 350 Project: Github Actions CI. SAIT ID:000xxxxxx');
-  res.send('CPSY 350 Project: Github Actions CI. SAIT ID:000xxxxx');
 1e6faac (test2)
 });
 
